@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/furmur/Flatpak-org.fritzing.Fritzing/actions/workflows/ci-cl.yml/badge.svg)](https://github.com/furmur/Flatpak-org.fritzing.Fritzing/actions/workflows/ci-cl.yml)
+
 # build
 ```
 $ flatpak-builder --user --force-clean --install-deps-from=flathub --repo=repo build org.fritzing.Fritzing.json
