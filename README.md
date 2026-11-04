@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/furmur/Flatpak-org.fritzing.Fritzing/actions/workflows/ci-cl.yml/badge.svg)](https://github.com/furmur/Flatpak-org.fritzing.Fritzing/actions/workflows/ci-cl.yml)
+[![Build Status](https://github.com/furmur/Flatpak-org.fritzing.Fritzing/actions/workflows/build.yml/badge.svg)](https://github.com/furmur/Flatpak-org.fritzing.Fritzing/actions/workflows/build.yml)
 
 # build
 ```
