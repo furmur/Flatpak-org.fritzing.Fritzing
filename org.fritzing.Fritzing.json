@@ -2,7 +2,7 @@
     "id": "org.fritzing.Fritzing",
     "runtime": "org.kde.Platform",
     "sdk": "org.kde.Sdk",
-    "runtime-version": "6.5",
+    "runtime-version": "6.8",
     "command": "Fritzing",
     "rename-icon": "fritzing",
     "finish-args": [
@@ -140,7 +140,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/fritzing/fritzing-app.git",
-                    "commit": "a8c6ef7cf66f7a42b9b233d6137f1b70a9573a25"
+                    "commit": "5aa56a510183c23084990a6b4481708cad24c15b"
                 },
                 {
                     "type": "git",
@@ -167,7 +167,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/fritzing/fritzing-parts.git",
-                    "commit": "76235099ed556e52003de63522fdd74e61d53a36",
+                    "commit": "27535f2fd02097be9bed229b75aa8e9be282a4a0",
                     "dest": "parts"
                 },
                 {
