@@ -2,7 +2,7 @@
     "id": "org.fritzing.Fritzing",
     "runtime": "org.kde.Platform",
     "sdk": "org.kde.Sdk",
-    "runtime-version": "6.8",
+    "runtime-version": "6.10",
     "command": "Fritzing",
     "rename-icon": "fritzing",
     "finish-args": [
@@ -84,6 +84,12 @@
                         "stable-only": true,
                         "url-template": "https://downloads.sourceforge.net/polyclipping/clipper_ver${version}.zip"
                     }
+                },
+                {
+                    "type": "patch",
+                    "paths": [
+                        "patches/polyclipping-cmake-version.patch"
+                    ]
                 }
             ]
         },
